@@ -53,6 +53,7 @@ dkms.conf
 
 # PDF files
 *.pdf
+!tesina.pdf
 *.log
 *.aux
 *.synctex.gz
